@@ -46,7 +46,7 @@ void dezalocare(struct Masina* m) {
 
 int main() {
 	struct Masina masina;
-	masina = initializare(1, 2004, "Corina", 2000, 'P'); //"P"
+	masina = initializare(1, 2004, "Corina", 2000, 'P'); "P"
 	afisare(masina);
 	modifica_sofer(&masina, "Marius");
 	afisare(masina);
