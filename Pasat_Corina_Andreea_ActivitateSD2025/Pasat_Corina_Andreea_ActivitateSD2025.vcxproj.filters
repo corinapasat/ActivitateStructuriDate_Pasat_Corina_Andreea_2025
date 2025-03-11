@@ -21,5 +21,8 @@
     <ClCompile Include="Exercitiu01.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Seminar2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
