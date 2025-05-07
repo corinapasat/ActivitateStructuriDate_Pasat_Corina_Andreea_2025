@@ -42,5 +42,11 @@
     <ClCompile Include="Seminar8.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Seminar6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
