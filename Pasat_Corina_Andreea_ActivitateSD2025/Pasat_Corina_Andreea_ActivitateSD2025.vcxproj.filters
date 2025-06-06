@@ -57,5 +57,17 @@
     <ClCompile Include="Seminar10stivesicozi.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Seminar13.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="masini_arbore.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="muchii.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="masini.ctxt" />
   </ItemGroup>
 </Project>
